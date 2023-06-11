@@ -1,0 +1,64 @@
+h1 {
+  text-align: center;
+  }
+  
+p {
+  display: none;
+  background-color: beige;
+  padding: 20px;
+  text-align:justify;
+}
+span {
+  float:left;
+  width: 0.9em;
+  font-size: 250%;
+  font-family: arial, helvetica;
+  line-height: 80%;
+}
+
+div:hover p {
+  display: block;
+}
+
+div.red {
+  font-family:arial;
+  font-weight:bolder;
+  color:red;
+  text-align:center;
+  }
+div.orange {
+  font-family:arial;
+  font-weight:bolder;
+  color:orange;
+  text-align:center;
+  }
+div.yellow {
+  font-family:arial;
+  font-weight:bolder;
+  color:#FFE800;
+  text-align:center;
+  }
+div.green {
+  font-family:arial;
+  font-weight:bolder;
+  color:green;
+  text-align:center;
+  }
+div.blue {
+  font-family:arial;
+  font-weight:bolder;
+  color:blue;
+  text-align:center;
+  }
+div.indigo {
+  font-family:arial;
+  font-weight:bolder;
+  color:indigo;
+  text-align:center;
+  }
+div.violet {
+  font-family:arial;
+  font-weight:bolder;
+  color:violet;
+  text-align:center;
+  }
